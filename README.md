@@ -1,0 +1,2 @@
+# nodejs-init
+example folder
